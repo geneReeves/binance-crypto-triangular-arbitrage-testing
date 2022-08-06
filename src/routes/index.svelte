@@ -15,6 +15,7 @@ import DetailModal from "$lib/detail.svelte";
 let modalDetail = false;
 let contentModal = {};
 let FEE = 750;
+let START_BUDGET = "1000";
 
 const showPopupLong = e => {
 
@@ -158,6 +159,7 @@ onMount( async () => {
 
 $: if(checkProfit && tick) {
   checkProfit.FEE = (FEE/1000000).toFixed(6);
+  checkProfit.BASE_USD_BUDGET = START_BUDGET;
 }
 
 </script>
