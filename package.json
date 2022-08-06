@@ -1,7 +1,7 @@
 {
   "name": "crypto-triangular-arbitrage",
   "version": "1.0.0",
-  "homepage": "https://github.com/eugenioclrc/binance-crypto-triangular-arbitrage#readme",
+  "homepage": "https://github.com/geneReeves/binance-crypto-triangular-arbitrage-testing#readme",
   "scripts": {
     "dev": "svelte-kit dev",
     "build": "svelte-kit build",
