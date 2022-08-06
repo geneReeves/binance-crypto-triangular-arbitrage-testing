@@ -10,7 +10,7 @@
 
 	<!-- TODO lose the @next! -->
 	<pre>npm init svelte@next</pre>
-<input type="range" bind:value={FEE} min="0" max="10000" step="1"> {FEE/10000}% <br />
+<input type="range" bind:value={FEE} min="0" max="10000" step="1"> {FEE/10000}% fee<br />
 Value: {(FEE/1000000).toFixed(20)}%
 </div>
 
