@@ -18,7 +18,7 @@ const config = {
 			fallback: null,
     }),
     paths: {
-      base: dev ? '' : '/binance-crypto-triangular-arbitrage',
+      base: dev ? '' : '/binance-crypto-triangular-arbitrage-testing',
     },
     // hydrate the <div id="svelte"> element in src/app.html
     target: "#svelte",
