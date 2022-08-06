@@ -166,12 +166,13 @@ $: if(checkProfit && tick) {
 
 <main>
 	<h1>Binance triangular arbitrage in real time</h1>
-	<h1><small>find market imperfections easily!<small> <a class="github-button" href="https://github.com/geneReeves/binance-crypto-triangular-arbitrage-testing" data-icon="octicon-star" aria-label="Star geneReeves/binance-crypto-triangular-arbitrage-testing on GitHub">Star</a></h1>
+	<h1><small>find market imperfections easily!</h1><br /><h1><small> <a class="github-button" href="https://github.com/geneReeves/binance-crypto-triangular-arbitrage-testing" data-icon="octicon-star" aria-label="Star geneReeves/binance-crypto-triangular-arbitrage-testing on GitHub">Star</a></h1>
 
-	<p><br />
+	<br />
+	<p>
 		Triangular arbitrage is the act of exploiting an arbitrage opportunity resulting from a pricing discrepancy among three different currencies. A triangular arbitrage strategy involves three trades, exchanging the initial currency for a second, the second currency for a third, and the third currency for the initial. During the second trade, the arbitrageur locks in a zero-risk profit from the discrepancy that exists when the market cross exchange rate is not aligned with the implicit cross exchange rate. A profitable trade is only possible if there exist market imperfections. Profitable triangular arbitrage is very rarely possible because when such opportunities arise, traders execute trades that take advantage of the imperfections and prices adjust up or down until the opportunity disappears.[6]
 
-	<p><b>Want to help me?</b><br />please register your binance account using my referral link visit
+	<p><b>Want to help me?</b></p><br /><p>please register your binance account using my referral link visit
 	<a href="https://www.binance.com/en/register">https://www.binance.com/en/register</a></p>
 
 
